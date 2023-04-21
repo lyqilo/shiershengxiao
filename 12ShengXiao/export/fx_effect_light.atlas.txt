@@ -1,0 +1,48 @@
+
+fx_effect_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cLIGHT_CHI
+  rotate: false
+  xy: 2, 924
+  size: 296, 17
+  orig: 302, 18
+  offset: 1, 1
+  index: -1
+ceff_heiquan_01
+  rotate: false
+  xy: 251, 471
+  size: 252, 254
+  orig: 256, 256
+  offset: 2, 1
+  index: -1
+ceff_huiguang_01
+  rotate: false
+  xy: 2, 559
+  size: 247, 166
+  orig: 256, 180
+  offset: 7, 7
+  index: -1
+ceff_lgiht_wight
+  rotate: false
+  xy: 505, 720
+  size: 417, 143
+  orig: 436, 160
+  offset: 12, 6
+  index: -1
+chengguang_01
+  rotate: false
+  xy: 2, 727
+  size: 501, 136
+  orig: 501, 136
+  offset: 0, 0
+  index: -1
+clight_01
+  rotate: false
+  xy: 2, 865
+  size: 939, 57
+  orig: 945, 58
+  offset: 6, 1
+  index: -1

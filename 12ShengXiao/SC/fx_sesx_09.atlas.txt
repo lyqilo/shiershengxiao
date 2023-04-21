@@ -1,0 +1,27 @@
+
+fx_sesx_09.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sesx2_16
+  rotate: false
+  xy: 263, 308
+  size: 188, 143
+  orig: 188, 143
+  offset: 0, 0
+  index: -1
+sesx2_17
+  rotate: false
+  xy: 2, 279
+  size: 259, 172
+  orig: 259, 172
+  offset: 0, 0
+  index: -1
+sesx2_18
+  rotate: false
+  xy: 263, 230
+  size: 179, 76
+  orig: 179, 76
+  offset: 0, 0
+  index: -1

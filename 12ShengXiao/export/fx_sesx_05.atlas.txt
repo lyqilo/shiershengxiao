@@ -1,0 +1,34 @@
+
+fx_sesx_05.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_0000_GUMO_01
+  rotate: false
+  xy: 2, 2
+  size: 193, 36
+  orig: 193, 36
+  offset: 0, 0
+  index: -1
+g_0001_GU_02
+  rotate: true
+  xy: 2, 40
+  size: 251, 151
+  orig: 251, 151
+  offset: 0, 0
+  index: -1
+g_0002_G_cuizi
+  rotate: true
+  xy: 155, 138
+  size: 153, 106
+  orig: 164, 107
+  offset: 0, 1
+  index: -1
+g_0003_eff_guxiao
+  rotate: false
+  xy: 2, 293
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1

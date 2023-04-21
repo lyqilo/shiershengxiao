@@ -1,0 +1,195 @@
+
+fx_kuang_FS.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_waikuang1
+  rotate: true
+  xy: 1777, 435
+  size: 543, 140
+  orig: 609, 211
+  offset: 32, 33
+  index: -1
+button_waikuang2
+  rotate: false
+  xy: 2, 1724
+  size: 607, 193
+  orig: 609, 211
+  offset: 1, 1
+  index: -1
+eff_UI_kuang/light_kuang(1)
+  rotate: true
+  xy: 753, 959
+  size: 585, 190
+  orig: 609, 211
+  offset: 7, 15
+  index: -1
+eff_UI_kuang/light_kuang(10)
+  rotate: true
+  xy: 1594, 414
+  size: 561, 181
+  orig: 609, 211
+  offset: 24, 13
+  index: -1
+eff_UI_kuang/light_kuang(11)
+  rotate: true
+  xy: 909, 377
+  size: 579, 178
+  orig: 609, 211
+  offset: 14, 15
+  index: -1
+eff_UI_kuang/light_kuang(12)
+  rotate: true
+  xy: 1256, 378
+  size: 581, 163
+  orig: 609, 211
+  offset: 13, 26
+  index: -1
+eff_UI_kuang/light_kuang(13)
+  rotate: false
+  xy: 2, 1518
+  size: 595, 204
+  orig: 609, 211
+  offset: 12, 4
+  index: -1
+eff_UI_kuang/light_kuang(14)
+  rotate: true
+  xy: 725, 330
+  size: 591, 182
+  orig: 609, 211
+  offset: 10, 13
+  index: -1
+eff_UI_kuang/light_kuang(15)
+  rotate: false
+  xy: 1220, 1729
+  size: 599, 188
+  orig: 609, 211
+  offset: 1, 7
+  index: -1
+eff_UI_kuang/light_kuang(16)
+  rotate: true
+  xy: 536, 331
+  size: 590, 187
+  orig: 609, 211
+  offset: 10, 7
+  index: -1
+eff_UI_kuang/light_kuang(17)
+  rotate: true
+  xy: 1120, 961
+  size: 583, 170
+  orig: 609, 211
+  offset: 5, 25
+  index: -1
+eff_UI_kuang/light_kuang(18)
+  rotate: true
+  xy: 362, 324
+  size: 595, 172
+  orig: 609, 211
+  offset: 7, 23
+  index: -1
+eff_UI_kuang/light_kuang(19)
+  rotate: false
+  xy: 1220, 1548
+  size: 594, 179
+  orig: 609, 211
+  offset: 8, 16
+  index: -1
+eff_UI_kuang/light_kuang(2)
+  rotate: true
+  xy: 379, 928
+  size: 588, 191
+  orig: 609, 211
+  offset: 6, 3
+  index: -1
+eff_UI_kuang/light_kuang(20)
+  rotate: true
+  xy: 192, 921
+  size: 595, 185
+  orig: 609, 211
+  offset: 6, 14
+  index: -1
+eff_UI_kuang/light_kuang(21)
+  rotate: false
+  xy: 611, 1546
+  size: 588, 178
+  orig: 609, 211
+  offset: 9, 14
+  index: -1
+eff_UI_kuang/light_kuang(22)
+  rotate: true
+  xy: 945, 958
+  size: 586, 173
+  orig: 609, 211
+  offset: 9, 18
+  index: -1
+eff_UI_kuang/light_kuang(23)
+  rotate: true
+  xy: 1463, 977
+  size: 569, 178
+  orig: 609, 211
+  offset: 18, 15
+  index: -1
+eff_UI_kuang/light_kuang(24)
+  rotate: true
+  xy: 2, 305
+  size: 608, 174
+  orig: 609, 211
+  offset: 0, 11
+  index: -1
+eff_UI_kuang/light_kuang(25)
+  rotate: true
+  xy: 1643, 980
+  size: 566, 180
+  orig: 609, 211
+  offset: 24, 13
+  index: -1
+eff_UI_kuang/light_kuang(3)
+  rotate: true
+  xy: 2, 915
+  size: 601, 188
+  orig: 609, 211
+  offset: 7, 11
+  index: -1
+eff_UI_kuang/light_kuang(4)
+  rotate: true
+  xy: 1089, 374
+  size: 582, 165
+  orig: 609, 211
+  offset: 7, 16
+  index: -1
+eff_UI_kuang/light_kuang(5)
+  rotate: true
+  xy: 572, 923
+  size: 593, 179
+  orig: 609, 211
+  offset: 6, 16
+  index: -1
+eff_UI_kuang/light_kuang(6)
+  rotate: false
+  xy: 611, 1726
+  size: 607, 191
+  orig: 609, 211
+  offset: 2, 13
+  index: -1
+eff_UI_kuang/light_kuang(7)
+  rotate: true
+  xy: 1292, 967
+  size: 579, 169
+  orig: 609, 211
+  offset: 15, 18
+  index: -1
+eff_UI_kuang/light_kuang(8)
+  rotate: true
+  xy: 178, 318
+  size: 595, 182
+  orig: 609, 211
+  offset: 6, 12
+  index: -1
+eff_UI_kuang/light_kuang(9)
+  rotate: true
+  xy: 1421, 402
+  size: 563, 171
+  orig: 609, 211
+  offset: 19, 23
+  index: -1

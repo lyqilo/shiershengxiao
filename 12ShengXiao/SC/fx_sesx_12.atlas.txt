@@ -1,0 +1,139 @@
+
+fx_sesx_12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sesx2_21
+  rotate: false
+  xy: 154, 361
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+sesx2_29/sesx2_29_00
+  rotate: false
+  xy: 353, 412
+  size: 10, 25
+  orig: 136, 34
+  offset: 0, 9
+  index: -1
+sesx2_29/sesx2_29_01
+  rotate: true
+  xy: 473, 453
+  size: 21, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+sesx2_29/sesx2_29_02
+  rotate: false
+  xy: 473, 476
+  size: 37, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1
+sesx2_29/sesx2_29_03
+  rotate: false
+  xy: 431, 476
+  size: 40, 34
+  orig: 136, 34
+  offset: 10, 0
+  index: -1
+sesx2_29/sesx2_29_04
+  rotate: false
+  xy: 365, 429
+  size: 39, 33
+  orig: 136, 34
+  offset: 24, 0
+  index: -1
+sesx2_29/sesx2_29_05
+  rotate: false
+  xy: 428, 406
+  size: 39, 33
+  orig: 136, 34
+  offset: 37, 0
+  index: -1
+sesx2_29/sesx2_29_06
+  rotate: false
+  xy: 469, 376
+  size: 38, 33
+  orig: 136, 34
+  offset: 52, 0
+  index: -1
+sesx2_29/sesx2_29_07
+  rotate: false
+  xy: 431, 441
+  size: 40, 33
+  orig: 136, 34
+  offset: 63, 0
+  index: -1
+sesx2_29/sesx2_29_08
+  rotate: true
+  xy: 365, 396
+  size: 31, 33
+  orig: 136, 34
+  offset: 85, 0
+  index: -1
+sesx2_29/sesx2_29_09
+  rotate: true
+  xy: 473, 411
+  size: 40, 33
+  orig: 136, 34
+  offset: 89, 0
+  index: -1
+sesx2_29/sesx2_29_10
+  rotate: true
+  xy: 305, 405
+  size: 32, 33
+  orig: 136, 34
+  offset: 103, 0
+  index: -1
+sesx2_29/sesx2_29_11
+  rotate: false
+  xy: 406, 429
+  size: 20, 33
+  orig: 136, 34
+  offset: 116, 0
+  index: -1
+sesx2_29/sesx2_29_12
+  rotate: true
+  xy: 340, 430
+  size: 7, 11
+  orig: 136, 34
+  offset: 129, 0
+  index: -1
+sesx2_30
+  rotate: false
+  xy: 2, 349
+  size: 144, 42
+  orig: 144, 42
+  offset: 0, 0
+  index: -1
+sesx2_31
+  rotate: false
+  xy: 2, 393
+  size: 150, 117
+  orig: 150, 117
+  offset: 0, 0
+  index: -1
+sesx2_32
+  rotate: true
+  xy: 305, 477
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+sesx2_33
+  rotate: true
+  xy: 305, 439
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+sesx2_34
+  rotate: true
+  xy: 369, 464
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1

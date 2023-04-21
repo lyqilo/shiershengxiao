@@ -1,0 +1,90 @@
+
+fx_megawin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_MEGA
+  rotate: false
+  xy: 2, 247
+  size: 952, 279
+  orig: 952, 279
+  offset: 0, 0
+  index: -1
+Coin_02
+  rotate: true
+  xy: 906, 528
+  size: 493, 95
+  orig: 493, 95
+  offset: 0, 0
+  index: -1
+PK_HeiTao_1
+  rotate: true
+  xy: 956, 466
+  size: 60, 65
+  orig: 65, 68
+  offset: 1, 0
+  index: -1
+PK_fangpian_4
+  rotate: false
+  xy: 956, 223
+  size: 58, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+PK_hongTao_2
+  rotate: false
+  xy: 956, 342
+  size: 61, 61
+  orig: 63, 65
+  offset: 1, 1
+  index: -1
+PK_meihua_3
+  rotate: true
+  xy: 956, 405
+  size: 59, 64
+  orig: 64, 67
+  offset: 4, 0
+  index: -1
+PK_ui_puke2
+  rotate: false
+  xy: 771, 618
+  size: 101, 92
+  orig: 103, 95
+  offset: 0, 1
+  index: -1
+TXT_MEGAWIN01
+  rotate: false
+  xy: 2, 557
+  size: 454, 153
+  orig: 454, 171
+  offset: 0, 0
+  index: -1
+TXT_MEGAWIN02
+  rotate: false
+  xy: 458, 568
+  size: 311, 142
+  orig: 311, 142
+  offset: 0, 0
+  index: -1
+eff_kuang_dian
+  rotate: false
+  xy: 771, 538
+  size: 94, 78
+  orig: 95, 84
+  offset: 0, 1
+  index: -1
+kuang_mega
+  rotate: false
+  xy: 2, 712
+  size: 902, 309
+  orig: 903, 310
+  offset: 1, 0
+  index: -1
+pk_eff_xingxing
+  rotate: false
+  xy: 956, 281
+  size: 59, 59
+  orig: 61, 69
+  offset: 1, 5
+  index: -1

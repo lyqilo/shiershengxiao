@@ -1,0 +1,41 @@
+
+fx_bigwin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_BIGWIN
+  rotate: false
+  xy: 2, 512
+  size: 961, 283
+  orig: 961, 285
+  offset: 0, 2
+  index: -1
+TXT_BIGWIN01
+  rotate: false
+  xy: 529, 797
+  size: 339, 166
+  orig: 339, 187
+  offset: 0, 21
+  index: -1
+TXT_BIGWIN02
+  rotate: false
+  xy: 182, 816
+  size: 345, 147
+  orig: 345, 147
+  offset: 0, 0
+  index: -1
+eff_kuang_dian
+  rotate: false
+  xy: 76, 873
+  size: 104, 90
+  orig: 105, 93
+  offset: 0, 1
+  index: -1
+pk_eff_xingxing
+  rotate: true
+  xy: 2, 898
+  size: 65, 72
+  orig: 68, 77
+  offset: 2, 5
+  index: -1

@@ -1,0 +1,174 @@
+
+eff_12SX_win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images_tzjtxsmoke/images_bomcoin1
+  rotate: true
+  xy: 648, 460
+  size: 45, 57
+  orig: 264, 281
+  offset: 120, 116
+  index: -1
+images_tzjtxsmoke/images_bomcoin10
+  rotate: true
+  xy: 2, 177
+  size: 254, 260
+  orig: 264, 281
+  offset: 1, 8
+  index: -1
+images_tzjtxsmoke/images_bomcoin11
+  rotate: false
+  xy: 2, 433
+  size: 206, 280
+  orig: 264, 281
+  offset: 58, 0
+  index: -1
+images_tzjtxsmoke/images_bomcoin2
+  rotate: true
+  xy: 491, 272
+  size: 92, 114
+  orig: 264, 281
+  offset: 96, 78
+  index: -1
+images_tzjtxsmoke/images_bomcoin3
+  rotate: true
+  xy: 506, 366
+  size: 139, 140
+  orig: 264, 281
+  offset: 73, 60
+  index: -1
+images_tzjtxsmoke/images_bomcoin4
+  rotate: false
+  xy: 455, 83
+  size: 157, 157
+  orig: 264, 281
+  offset: 60, 54
+  index: -1
+images_tzjtxsmoke/images_bomcoin5
+  rotate: false
+  xy: 2, 2
+  size: 171, 173
+  orig: 264, 281
+  offset: 52, 49
+  index: -1
+images_tzjtxsmoke/images_bomcoin6
+  rotate: true
+  xy: 264, 52
+  size: 188, 189
+  orig: 264, 281
+  offset: 43, 42
+  index: -1
+images_tzjtxsmoke/images_bomcoin7
+  rotate: false
+  xy: 458, 507
+  size: 206, 206
+  orig: 264, 281
+  offset: 31, 33
+  index: -1
+images_tzjtxsmoke/images_bomcoin8
+  rotate: true
+  xy: 264, 242
+  size: 227, 225
+  orig: 264, 281
+  offset: 14, 23
+  index: -1
+images_tzjtxsmoke/images_bomcoin9
+  rotate: false
+  xy: 210, 471
+  size: 246, 242
+  orig: 264, 281
+  offset: 0, 17
+  index: -1
+images_tztxcoin/images_goldcoin_tx0
+  rotate: false
+  xy: 175, 129
+  size: 46, 46
+  orig: 48, 46
+  offset: 1, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx1
+  rotate: true
+  xy: 666, 668
+  size: 45, 46
+  orig: 48, 46
+  offset: 2, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx10
+  rotate: false
+  xy: 175, 81
+  size: 46, 46
+  orig: 48, 46
+  offset: 2, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx11
+  rotate: false
+  xy: 175, 33
+  size: 46, 46
+  orig: 48, 46
+  offset: 1, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx12
+  rotate: false
+  xy: 607, 318
+  size: 46, 46
+  orig: 48, 46
+  offset: 1, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx2
+  rotate: false
+  xy: 223, 129
+  size: 39, 46
+  orig: 48, 46
+  offset: 3, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx3
+  rotate: true
+  xy: 210, 438
+  size: 31, 46
+  orig: 48, 46
+  offset: 8, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx4
+  rotate: false
+  xy: 223, 33
+  size: 21, 46
+  orig: 48, 46
+  offset: 11, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx5
+  rotate: false
+  xy: 246, 33
+  size: 10, 46
+  orig: 48, 46
+  offset: 18, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx6
+  rotate: true
+  xy: 666, 599
+  size: 21, 46
+  orig: 48, 46
+  offset: 12, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx7
+  rotate: true
+  xy: 458, 474
+  size: 31, 46
+  orig: 48, 46
+  offset: 8, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx8
+  rotate: false
+  xy: 223, 81
+  size: 39, 46
+  orig: 48, 46
+  offset: 5, 0
+  index: -1
+images_tztxcoin/images_goldcoin_tx9
+  rotate: true
+  xy: 666, 622
+  size: 44, 46
+  orig: 48, 46
+  offset: 2, 0
+  index: -1

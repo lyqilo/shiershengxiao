@@ -1,0 +1,132 @@
+
+fx_sesx_14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sesx2_50
+  rotate: false
+  xy: 2, 789
+  size: 316, 156
+  orig: 328, 162
+  offset: 4, 3
+  index: -1
+sesx2_51
+  rotate: true
+  xy: 320, 689
+  size: 256, 301
+  orig: 258, 303
+  offset: 1, 1
+  index: -1
+sesx2_52
+  rotate: true
+  xy: 623, 855
+  size: 159, 353
+  orig: 164, 355
+  offset: 1, 1
+  index: -1
+sesx2_53
+  rotate: false
+  xy: 2, 701
+  size: 199, 86
+  orig: 199, 86
+  offset: 0, 0
+  index: -1
+sesx2_54/sesx2_54_00
+  rotate: false
+  xy: 978, 909
+  size: 24, 46
+  orig: 189, 73
+  offset: 5, 26
+  index: -1
+sesx2_54/sesx2_54_01
+  rotate: true
+  xy: 773, 738
+  size: 47, 71
+  orig: 189, 73
+  offset: 0, 1
+  index: -1
+sesx2_54/sesx2_54_02
+  rotate: true
+  xy: 699, 782
+  size: 71, 72
+  orig: 189, 73
+  offset: 0, 1
+  index: -1
+sesx2_54/sesx2_54_03
+  rotate: false
+  xy: 623, 781
+  size: 74, 72
+  orig: 189, 73
+  offset: 8, 1
+  index: -1
+sesx2_54/sesx2_54_04
+  rotate: false
+  xy: 203, 635
+  size: 81, 72
+  orig: 189, 73
+  offset: 29, 1
+  index: -1
+sesx2_54/sesx2_54_05
+  rotate: false
+  xy: 2, 627
+  size: 81, 72
+  orig: 189, 73
+  offset: 50, 0
+  index: -1
+sesx2_54/sesx2_54_06
+  rotate: false
+  xy: 85, 627
+  size: 81, 72
+  orig: 189, 73
+  offset: 71, 0
+  index: -1
+sesx2_54/sesx2_54_07
+  rotate: true
+  xy: 773, 787
+  size: 66, 72
+  orig: 189, 73
+  offset: 91, 0
+  index: -1
+sesx2_54/sesx2_54_08
+  rotate: false
+  xy: 847, 784
+  size: 71, 69
+  orig: 189, 73
+  offset: 112, 0
+  index: -1
+sesx2_54/sesx2_54_09
+  rotate: true
+  xy: 699, 725
+  size: 55, 62
+  orig: 189, 73
+  offset: 132, 0
+  index: -1
+sesx2_54/sesx2_54_10
+  rotate: false
+  xy: 978, 957
+  size: 36, 57
+  orig: 189, 73
+  offset: 153, 0
+  index: -1
+sesx2_54/sesx2_54_11
+  rotate: false
+  xy: 1004, 947
+  size: 9, 8
+  orig: 189, 73
+  offset: 180, 7
+  index: -1
+sesx2_55
+  rotate: false
+  xy: 2, 947
+  size: 619, 67
+  orig: 619, 67
+  offset: 0, 0
+  index: -1
+sesx2_59
+  rotate: true
+  xy: 203, 709
+  size: 78, 97
+  orig: 78, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+fx_sesx_11.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xylhj_13/xylhj_13_00
+  rotate: true
+  xy: 2, 375
+  size: 112, 257
+  orig: 122, 269
+  offset: 5, 6
+  index: -1
+xylhj_13/xylhj_13_01
+  rotate: true
+  xy: 2, 261
+  size: 112, 257
+  orig: 122, 269
+  offset: 5, 6
+  index: -1
+xylhj_13/xylhj_13_02
+  rotate: false
+  xy: 261, 230
+  size: 112, 257
+  orig: 122, 269
+  offset: 5, 6
+  index: -1
+xylhj_13/xylhj_13_03
+  rotate: false
+  xy: 375, 230
+  size: 112, 257
+  orig: 122, 269
+  offset: 5, 6
+  index: -1
+xylhj_13/xylhj_13_04
+  rotate: true
+  xy: 2, 147
+  size: 112, 257
+  orig: 122, 269
+  offset: 5, 6
+  index: -1

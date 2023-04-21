@@ -1,0 +1,104 @@
+
+fx_sesx_01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sesx2_01/sesx2_01_00
+  rotate: true
+  xy: 212, 124
+  size: 17, 34
+  orig: 132, 78
+  offset: 0, 44
+  index: -1
+sesx2_01/sesx2_01_01
+  rotate: false
+  xy: 221, 196
+  size: 31, 58
+  orig: 132, 78
+  offset: 0, 20
+  index: -1
+sesx2_01/sesx2_01_02
+  rotate: true
+  xy: 49, 66
+  size: 46, 57
+  orig: 132, 78
+  offset: 0, 20
+  index: -1
+sesx2_01/sesx2_01_03
+  rotate: true
+  xy: 125, 81
+  size: 53, 61
+  orig: 132, 78
+  offset: 2, 11
+  index: -1
+sesx2_01/sesx2_01_04
+  rotate: true
+  xy: 188, 68
+  size: 54, 59
+  orig: 132, 78
+  offset: 22, 9
+  index: -1
+sesx2_01/sesx2_01_05
+  rotate: false
+  xy: 2, 114
+  size: 61, 56
+  orig: 132, 78
+  offset: 31, 9
+  index: -1
+sesx2_01/sesx2_01_06
+  rotate: false
+  xy: 151, 197
+  size: 68, 57
+  orig: 132, 78
+  offset: 41, 4
+  index: -1
+sesx2_01/sesx2_01_07
+  rotate: true
+  xy: 65, 114
+  size: 56, 58
+  orig: 132, 78
+  offset: 67, 2
+  index: -1
+sesx2_01/sesx2_01_08
+  rotate: false
+  xy: 151, 136
+  size: 59, 59
+  orig: 132, 78
+  offset: 72, 1
+  index: -1
+sesx2_01/sesx2_01_09
+  rotate: false
+  xy: 2, 53
+  size: 45, 59
+  orig: 132, 78
+  offset: 87, 0
+  index: -1
+sesx2_01/sesx2_01_10
+  rotate: false
+  xy: 212, 143
+  size: 29, 51
+  orig: 132, 78
+  offset: 103, 0
+  index: -1
+sesx2_01/sesx2_01_11
+  rotate: false
+  xy: 243, 171
+  size: 11, 23
+  orig: 132, 78
+  offset: 120, 0
+  index: -1
+sesx2_02
+  rotate: false
+  xy: 2, 172
+  size: 147, 82
+  orig: 147, 82
+  offset: 0, 0
+  index: -1
+yuan_01
+  rotate: false
+  xy: 108, 30
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+fx_sesx_07.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sesx2_11
+  rotate: true
+  xy: 2, 99
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+sesx2_12
+  rotate: true
+  xy: 35, 90
+  size: 31, 37
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+sesx2_13
+  rotate: true
+  xy: 74, 85
+  size: 36, 47
+  orig: 37, 48
+  offset: 0, 0
+  index: -1

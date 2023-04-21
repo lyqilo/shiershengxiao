@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "yx_12sx_jiangchi_shuzi_,.png",
+	"frame": {"x":0,"y":0,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_..png",
+	"frame": {"x":26,"y":0,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_0.png",
+	"frame": {"x":52,"y":0,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_1.png",
+	"frame": {"x":78,"y":0,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_2.png",
+	"frame": {"x":0,"y":31,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_3.png",
+	"frame": {"x":26,"y":31,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_4.png",
+	"frame": {"x":52,"y":31,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_5.png",
+	"frame": {"x":78,"y":31,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_6.png",
+	"frame": {"x":0,"y":62,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_7.png",
+	"frame": {"x":26,"y":62,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_8.png",
+	"frame": {"x":52,"y":62,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_9.png",
+	"frame": {"x":78,"y":62,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_B.png",
+	"frame": {"x":0,"y":93,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_K.png",
+	"frame": {"x":26,"y":93,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_M.png",
+	"frame": {"x":52,"y":93,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+{
+	"filename": "yx_12sx_jiangchi_shuzi_T.png",
+	"frame": {"x":78,"y":93,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "yx1.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:95a5b985631f5e4f87ac57667022b4b9:a1001f1537214089dd1dd9909a4cc0dc:c8cad53b27cb0fe99fdcabdfb1e5af43$"
+}
+}

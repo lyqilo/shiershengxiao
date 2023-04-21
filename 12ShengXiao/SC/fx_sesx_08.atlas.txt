@@ -1,0 +1,20 @@
+
+fx_sesx_08.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sesx2_14
+  rotate: false
+  xy: 2, 92
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+yuan_01
+  rotate: false
+  xy: 79, 79
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
